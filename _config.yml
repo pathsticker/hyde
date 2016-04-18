@@ -21,3 +21,6 @@ paginate        : 5
 
 website     :
   github        : https://github.com/pathsticker
+  
+latest     :
+  version      : 1.2
