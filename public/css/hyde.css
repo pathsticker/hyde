@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -76,6 +76,10 @@ html {
 }
 
 /* About section */
+.sidebar-about {
+  text-align: center;
+}
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
