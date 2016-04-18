@@ -27,5 +27,5 @@ title: Downloads
 
 ## Notes :
 
-* **jangan gunakan aplikasi ini, silahkan upgrade akun ke premium!!!*** itung-itung bantu developernya dan nanti akun situ bakalan dapet badge premium, pokoknya keren kalau diliat sama user lain. murah kok cuma 35rb/bln atau 199rb/th.
+* **jangan gunakan aplikasi ini, silahkan upgrade akun ke premium!!!** itung-itung bantu developernya dan nanti akun situ bakalan dapet badge premium, pokoknya keren kalau diliat sama user lain. murah kok cuma 35rb/bln atau 199rb/th.
 * kalau tetep ngeyel tolong pakai apk ini dengan bijak. dan sekali lagi tolong jgn mere-share semua yg berkaitan disini dgn menggunakan link adf.ly atau sejenisnya.
