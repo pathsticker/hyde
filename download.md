@@ -1,3 +1,8 @@
+---
+layout: page
+title: Downloads
+---
+
 ### Syarat Penting :
 * ROOT!
 * Busybox (terutama binary CP dan LS).
@@ -12,4 +17,7 @@
 * HTC M9 (MM)
 * Himax Pure 3 (AmigoOS 4.4)
 
-### Download Link :
+### Download Apk :
+* [Path Sticker v1.2](https://www.dropbox.com/s/tbed5q7edj8wm2b/com.path.sticker_v1.2.apk?dl=0)
+* [Path Sticker v1.1](https://www.dropbox.com/s/iaaqr2ag49tu4ec/com.path.sticker_v1.1.apk?dl=0)
+* [Path Sticker v1.0-Release](https://www.dropbox.com/s/toubs9xqvkd01rp/com.path.sticker_v1.0_release.apk?dl=0)
